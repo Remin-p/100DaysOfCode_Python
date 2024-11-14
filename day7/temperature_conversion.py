@@ -15,14 +15,14 @@ temp = int(input("Input temperature: "))
 
 def celsiusToFahrenheit(cel):
     convertedTemp = (cel * (9/5)) + 32
-    print("{cTemp} to Fahrenheit = {fTemp:.1f}".format(
+    print("{cTemp}°C to Fahrenheit = {fTemp:.1f}°F".format(
         cTemp=temp,
         fTemp=convertedTemp
     ))
 
 def fahrenheitToCelsius(fah):
     convertedTemp = (fah - 32) * (5 / 9)
-    print("{fTemp} to Celsius = {cTemp:.1f}".format(
+    print("{fTemp}°C to Celsius = {cTemp:.1f}°F".format(
         fTemp=temp,
         cTemp=convertedTemp
     ))
