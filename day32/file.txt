@@ -1,0 +1,44 @@
+[38;2;213;45;0m                  -`[0m
+[38;2;239;118;39m                 .o+`[0m
+[38;2;255;154;86m                `ooo/[0m
+[38;2;255;255;255m               `+oooo:[0m
+[38;2;209;98;164m              `+oooooo:[0m
+[38;2;181;86;144m              -+oooooo+:[0m
+[38;2;163;2;98m            `/:-:++oooo+:[0m
+[38;2;213;45;0m           `/++++/+++++++:[0m
+[38;2;239;118;39m          `/++++++++++++++:[0m
+[38;2;255;154;86m         `/+++ooooooooooooo/`[0m
+[38;2;255;255;255m        ./ooosssso++osssssso+`[0m
+[38;2;209;98;164m       .oossssso-````/ossssss+`[0m
+[38;2;181;86;144m      -osssssso.      :ssssssso.[0m
+[38;2;163;2;98m     :osssssss/        osssso+++.[0m
+[38;2;213;45;0m    /ossssssss/        +ssssooo/-[0m
+[38;2;239;118;39m  `/ossssso+/:-        -:/+osssso+-[0m
+[38;2;255;154;86m `+sso+:-`                 `.-/+oso:[0m
+[38;2;255;255;255m`++:.                           `-/+/[0m
+[38;2;209;98;164m.`                                 `/[1G[18A[41Clisa@main[0m
+[38;2;181;86;144m[41C---------[0m
+[38;2;163;2;98m[41COS: EndeavourOS x86_64[0m
+[38;2;213;45;0m[41CHost: Aspire A515-45 (V1.52)[0m
+[38;2;239;118;39m[41CKernel: Linux 6.11.7-arch1-1[0m
+[38;2;255;154;86m[41CUptime: 4 hours, 34 mins[0m
+[38;2;255;255;255m[41CPackages: 1454 (pacman)[0m
+[38;2;209;98;164m[41CShell: bash 5.2.37[0m
+[38;2;181;86;144m[41CDisplay (AUO4999): 1920x1080 @ 60 Hz in 15" [Built-in][0m
+[38;2;163;2;98m[41CWM: Hyprland (Wayland)[0m
+[38;2;213;45;0m[41CTheme: Fusion [Qt], Breeze-Dark [GTK2], Breeze [GTK3][0m
+[38;2;239;118;39m[41CIcons: breeze-dark [GTK2/3/4][0m
+[38;2;255;154;86m[41CFont: DejaVu LGC Sans (12pt) [Qt], Noto Sans (10pt) [GTK2/3/4][0m
+[38;2;255;255;255m[41CCursor: Catppuccin-Mocha-Mauve (24px)[0m
+[38;2;209;98;164m[41CTerminal: codium[0m
+[38;2;181;86;144m[41CCPU: AMD Ryzen 7 5700U (16) @ 4.37 GHz[0m
+[38;2;163;2;98m[41CGPU: AMD Lucienne [Integrated][0m
+[38;2;213;45;0m[41CMemory: 5.87 GiB / 7.11 GiB (82%)[0m
+[38;2;239;118;39m[41CSwap: 1.42 GiB / 8.80 GiB (16%)[0m
+[38;2;255;154;86m[41CDisk (/): 43.04 GiB / 458.73 GiB (9%) - ext4[0m
+[38;2;255;255;255m[41CLocal IP (wlan0): 192.168.1.77/24[0m
+[38;2;209;98;164m[41CBattery (AP19B5L): 65% (4 hours, 59 mins remaining) [Discharging][0m
+[38;2;181;86;144m[41CLocale: en_US.UTF-8[0m
+[38;2;163;2;98m[41C[0m
+[38;2;213;45;0m[41C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m[0m
+[38;2;239;118;39m[41C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m[0m
