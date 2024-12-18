@@ -10,7 +10,7 @@ vowels = ["a", "e", "i", "o", "u"]
 
 def vowelCounter(userStr):
     vowelsInStr = 0
-    for char in userStr:
+    for char in userStr.lower():
         if char in vowels:
             vowelsInStr += 1
     return vowelsInStr
